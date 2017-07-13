@@ -1,0 +1,15 @@
+table {
+  margin-bottom: 1.6em; }
+
+.content-table {
+  width: 100%;
+  border-collapse: collapse; }
+  .content-table tr:nth-child(even) {
+    background-color: #f0f3f5; }
+  .content-table td,
+  .content-table th {
+    border-bottom: solid 1px #bbbbbb;
+    padding: 0.4em;
+    text-align: left; }
+  .content-table thead {
+    border-bottom: solid 2px #6e6e6e; }
